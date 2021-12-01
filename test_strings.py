@@ -1,3 +1,6 @@
+# You will need to change the '?' in test_string_variable_in_string to match
+# your variable in the string_variable_in_string function in the integers.py file
+
 from unittest import TestCase
 from strings import this_is_a_string, string_variable_in_a_string
 
